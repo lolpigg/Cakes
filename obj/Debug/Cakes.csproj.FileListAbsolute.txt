@@ -1,0 +1,8 @@
+C:\Users\igosh\source\repos\Cakes\bin\Debug\Cakes.exe.config
+C:\Users\igosh\source\repos\Cakes\bin\Debug\Cakes.exe
+C:\Users\igosh\source\repos\Cakes\bin\Debug\Cakes.pdb
+C:\Users\igosh\source\repos\Cakes\obj\Debug\Cakes.csproj.AssemblyReference.cache
+C:\Users\igosh\source\repos\Cakes\obj\Debug\Cakes.csproj.SuggestedBindingRedirects.cache
+C:\Users\igosh\source\repos\Cakes\obj\Debug\Cakes.csproj.CoreCompileInputs.cache
+C:\Users\igosh\source\repos\Cakes\obj\Debug\Cakes.exe
+C:\Users\igosh\source\repos\Cakes\obj\Debug\Cakes.pdb
